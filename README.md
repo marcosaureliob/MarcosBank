@@ -1,13 +1,15 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
 
-<hr>
+## Descrição do projeto
+Criação de projeto simulador de banco digital, que permite criação de usuário, contendo captura de foto como simulador de reconhecimento facial.
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+## Papel desempenhado
+Criação de todo o código, elaboração do projeto analisando mídia fidelidade para criação dos templates.
 
-## Tecnologias utilizadas durante o curso
-* JavaScript
+## Contribuições
+Não só realizei a programação do template como elaborei o código para ficar de acordo com minhas experiências na área do usuário, criando também um nome ficticio para o banco de acordo com minha personalidade.
+
 
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
+* JavaScript
